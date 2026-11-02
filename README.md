@@ -2,7 +2,7 @@
 
 A simple counter with increase, decrease, and reset buttons. It's a beginner-friendly project for practicing how to update the UI based on user actions.
 
-![Counter App screenshot](screenshots/counter-app.png)
+![Counter App screenshot](https://drive.google.com/file/d/18Xh56IdYqdpeEao_vBZ7HhOB5Oj0t17F/view?usp=sharing)
 
 ## Features
 
